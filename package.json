@@ -5,7 +5,7 @@
   },
   "name": "stakefy",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "testvalid.js",
   "devDependencies": {},
   "scripts": {
@@ -15,5 +15,13 @@
     "tea"
   ],
   "author": "avici",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimberlyssean/stakefy"
+  },
+  "bugs": {
+    "url": "https://github.com/kimberlyssean/stakefy/issues"
+  },
+  "homepage": "https://github.com/kimberlyssean/stakefy#readme"
 }
